@@ -1,0 +1,9 @@
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\obj\Debug\PrimeFactorsTests.csprojResolveAssemblyReference.cache
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\bin\Debug\PrimeFactorsTests.dll
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\bin\Debug\PrimeFactorsTests.pdb
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\bin\Debug\nunit.framework.dll
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\bin\Debug\PrimeFactorsKata.dll
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\bin\Debug\PrimeFactorsKata.pdb
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\bin\Debug\nunit.framework.xml
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\obj\Debug\PrimeFactorsTests.dll
+c:\users\cmoore\documents\visual studio 2013\Projects\PrimeFactorsKata\PrimeFactorsTests\obj\Debug\PrimeFactorsTests.pdb
